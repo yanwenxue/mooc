@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  contextPath: /start
+  
+girl:
+  fav: eat
+  age: 18
